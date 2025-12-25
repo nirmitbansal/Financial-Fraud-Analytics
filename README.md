@@ -57,19 +57,13 @@ Dashboards & Insights
 Financial-Fraud-Analytics/
 │
 ├── dashboards/
-│   └── # Dashboard files and visuals
 │
 ├── data/
 │   ├── raw/
-│   │   └── # Raw transaction data
 │   └── processed/
-│       └── # Cleaned & transformed data
 │
 ├── etl/
-│   └── # ETL scripts (extract, transform, load)
 │
 ├── requirements.txt
-│   └── # Python dependencies
 │
 └── README.md
-    └── # Project documentation
