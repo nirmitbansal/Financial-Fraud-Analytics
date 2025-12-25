@@ -52,18 +52,18 @@ Dashboards & Insights
 
 🔹Data engineering & analytics portfolio project
 
-**📁 Project Structure**
+## 📁 Project Structure
 
+```text
 Financial-Fraud-Analytics/
 │
-├── dashboards/
+├── dashboards/              # BI dashboards & visualizations
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── raw/                 # Raw transaction data
+│   └── processed/           # Cleaned & analytics-ready datasets
 │
-├── etl/
+├── etl/                     # ETL pipeline scripts
 │
-├── requirements.txt
-│
-└── README.md
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
