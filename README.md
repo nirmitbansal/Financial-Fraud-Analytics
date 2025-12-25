@@ -1,33 +1,53 @@
-**🕵️ Financial Fraud Analytics**
+**🛡️ Financial Fraud Analytics**
 
-**📌 Project Overview**
+Detect • Analyze • Visualize Fraudulent Financial Transactions
 
-This project focuses on analyzing and detecting fraudulent financial transactions using an end-to-end ETL pipeline and interactive dashboards to uncover fraud patterns, transaction behavior, and risk indicators.
-The solution demonstrates how raw financial data can be transformed, analyzed, and visualized to support fraud monitoring and decision-making.
+**🚀 Overview**
 
-**🧱 Project Architecture**
-Raw Data  →  ETL Pipeline  →  Processed Data  →  Dashboard & Insights
+Financial Fraud Analytics is an end-to-end data analytics project focused on identifying and analyzing fraudulent financial transactions.
+The project demonstrates how raw transaction data can be transformed into meaningful insights and fraud indicators using a structured ETL pipeline and interactive dashboards.
 
-**⚙️ ETL Pipeline Explanation**
+This repository is ideal for showcasing data analytics, ETL, and fraud analysis skills in a real-world scenario.
 
-🔹 Extract
+**✨ What This Project Does**
 
-Reads raw transaction data from CSV files
+✔️ Cleans and processes raw financial transaction data
+✔️ Generates fraud-related metrics and indicators
+✔️ Prepares analytics-ready datasets
+✔️ Enables visualization of fraud trends and transaction behavior
 
-Handles large datasets efficiently
+**🧠 Key Features**
 
-🔹 Transform
+🔹 End-to-End ETL Pipeline
+Structured extraction, transformation, and loading of transaction data.
 
-Cleans missing and inconsistent values
+🔹 Fraud Pattern Analysis
+Highlights suspicious transactions using derived indicators and metrics.
 
-Creates fraud indicators
+🔹 Analytics-Ready Data
+Outputs clean datasets optimized for dashboards and reporting tools.
 
-Categorizes transaction amounts (Low / Medium / High)
+🔹 Scalable Design
+Built to handle large transaction datasets efficiently.
 
-Prepares analytics-ready dataset
+**🏗️ Project Architecture**
 
-🔹 Load
+Raw Transaction Data
+        ↓
+Data Cleaning & Transformation
+        ↓
+Fraud Metrics & Indicators
+        ↓
+Processed Analytics Dataset
+        ↓
+Dashboards & Insights
 
-Saves processed data into structured CSV format
+**📊 Use Cases**
 
-Ready for dashboarding and analysis
+🔹Fraud trend monitoring
+
+🔹Transaction risk analysis
+
+🔹Financial compliance analytics
+
+🔹Data engineering & analytics portfolio project
