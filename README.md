@@ -50,6 +50,8 @@ Dashboards & Insights
 
 🔹Financial compliance analytics
 
+🔹Data engineering & analytics portfolio project
+
 **📁 Project Structure**
 
 Financial-Fraud-Analytics/
@@ -63,4 +65,4 @@ Financial-Fraud-Analytics/
 └── README.md            # Project documentation
 
 
-🔹Data engineering & analytics portfolio project
+
